@@ -12,20 +12,20 @@ Inside the Unreal Editor select "rund dedicated server" and start with the numbe
 ##Controls
 
 ### Keyboard
-w/s: 	control pitch
-a/d: 	turn plane
-f:		use impulse
-shift: 	use boost
-c: 		use grapple hook
-enter:	go ready/change settings
-space:	break/get to the ground
+w/s: 	control pitch\
+a/d: 	turn plane\
+f:		use impulse\
+shift: 	use boost\
+c: 		use grapple hook\
+enter:	go ready/change settings\
+space:	break/get to the ground\
 
 ### Controller (xbox)
-left stick: 		steer the plane
-a:					use grapple hook
-b/right shoulder	use impulse
-left trigger:		break/get to the ground
-right triger: 		boost
-start:				go ready/change settings
+left stick: 		steer the plane\
+a:					use grapple hook\
+b/right shoulder	use impulse\
+left trigger:		break/get to the ground\
+right triger: 		boost\
+start:				go ready/change settings\
 
 
