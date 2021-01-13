@@ -23,7 +23,7 @@ space:	break/get to the ground\
 ### Controller (xbox)
 left stick: 		steer the plane\
 a:					use grapple hook\
-b/right shoulder	use impulse\
+b/right shoulder:	use impulse\
 left trigger:		break/get to the ground\
 right triger: 		boost\
 start:				go ready/change settings\
