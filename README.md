@@ -28,4 +28,5 @@ left trigger:		break/get to the ground\
 right triger: 		boost\
 start:				go ready/change settings\
 
-
+![Screenshot 2021-04-19 115050](https://user-images.githubusercontent.com/24527385/115217344-b2b44880-a105-11eb-9f66-0863395f6072.png)
+![Screenshot 2021-04-19 114527](https://user-images.githubusercontent.com/24527385/115217355-b647cf80-a105-11eb-88e1-da786aa144f0.png)
